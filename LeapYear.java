@@ -1,7 +1,7 @@
 /** Class that determines whether or not a year is a leap year.
  *  @author YOUR NAME HERE
  */
-public class LeapYear {
+public class LeapYear {/*test*/
 
   public static boolean isLeapYear(int year){ 
       return ((year%4==0&&year%100!=0)||year%400==0); 
